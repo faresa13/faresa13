@@ -58,7 +58,7 @@
 
 ## 📫 Contato
 
-📎 LinkedIn: (coloque seu link aqui)  
+📎 LinkedIn: https://www.linkedin.com/in/fares-mahmud-412693376/ 
 💻 GitHub: https://github.com/faresa13  
 
 ---
