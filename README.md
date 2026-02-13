@@ -7,8 +7,8 @@
 ## 👨‍💻 Sobre mim
 
 🎓 Estudante de **Sistemas de Informação**  
-💡 Focado em construir uma base sólida em lógica e estrutura de dados  
-🚀 Evoluindo diariamente como desenvolvedor Backend  
+💡 Focado em construir uma base sólida em lógica, estrutura de dados e backend  
+🚀 Evoluindo diariamente como desenvolvedor  
 📚 Atualmente estudando Java, Banco de Dados e Arquitetura de Software  
 🎯 Objetivo: me tornar um desenvolvedor completo e preparado para grandes projetos  
 
@@ -26,8 +26,13 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Snake animation](https://raw.githubusercontent.com/faresa13/faresa13/output/github-contribution-grid-snake.svg)
+<div align="center">
 
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=faresa13&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&icon_color=00BFFF" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresa13&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF" />
+
+</div>
 
 ---
 
@@ -51,9 +56,18 @@
 
 ---
 
+## 🚀 Em evolução
+
+- 📚 Aprofundando conhecimentos em Java e Estruturas de Dados  
+- 🧠 Melhorando raciocínio lógico diariamente  
+- 🛠️ Desenvolvendo projetos próprios para consolidar aprendizado  
+- 🎯 Construindo base forte para atuar como desenvolvedor Backend  
+
+---
+
 ## 📫 Contato
 
-📎 LinkedIn: https://www.linkedin.com/in/fares-mahmud-412693376/ 
+📎 LinkedIn: https://www.linkedin.com/in/fares-mahmud-412693376/  
 💻 GitHub: https://github.com/faresa13  
 
 ---
