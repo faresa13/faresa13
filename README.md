@@ -26,13 +26,8 @@
 
 ## 📊 Estatísticas do GitHub
 
-<div align="center">
+![Snake animation](https://raw.githubusercontent.com/faresa13/faresa13/output/github-contribution-grid-snake.svg)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=faresa13&show_icons=true&theme=tokyonight&hide_border=true&title_color=00BFFF&icon_color=00BFFF" />
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faresa13&layout=compact&theme=tokyonight&hide_border=true&title_color=00BFFF" />
-
-</div>
 
 ---
 
